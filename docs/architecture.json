@@ -1,0 +1,14 @@
+{
+    "Stage":"alpha",
+	
+	"Description":"A Set of small projects and code bits.",
+	
+	"Modules":{
+	    "Games":["Intelligent X-O Extended in Prolog","Neural X-O"],
+        "Gists":["distances", "solve 2 equations", "write", "write list", "add", "add to list", "concatenation", "deletion" , "Chess Eight Queens", "problem", "file handling", "names", "romanian map", "predecessors", "Square formula"]
+	},
+	
+	"License":"Affero GPL",
+	"LicenseIcon": "http://www.gnu.org/graphics/agplv3-155x51.png",
+	"Repository":"https://github.com/IsmailMarmoush/prolog-samples"
+}
